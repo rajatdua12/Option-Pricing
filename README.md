@@ -1,0 +1,2 @@
+# Option-Pricing
+In this repository, I have incorporated some of my projects involving pricing of financial derivative products such as options. I went through the implementation of Option Pricing Algorithms using Binomial Tree lattice methods, Finite Difference, Monte Carlo simulation, and Black Scholes option pricing formula. In addition, I have included an algorithm which will find roots of the given function using either the Bisect Method or the Newton’s Method.
